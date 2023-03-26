@@ -11,3 +11,5 @@
 ##### 上傳雲端
 ![image](https://user-images.githubusercontent.com/100060507/226161567-9c95dbe2-e571-424f-89fc-125eaf8a406a.png)
 
+![image](https://user-images.githubusercontent.com/100060507/227762736-70c26291-6437-4291-a520-50a7020b8cc2.png)
+![image](https://user-images.githubusercontent.com/100060507/227763037-20a4bf10-aa03-482d-a423-02130ac87219.png)
