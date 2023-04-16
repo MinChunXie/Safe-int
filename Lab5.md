@@ -11,5 +11,7 @@
 ### 授權與會計
 
 ![image](https://user-images.githubusercontent.com/100060507/230760395-ac52971a-29cb-47ca-b435-ad9dcbc214eb.png)
+![image](https://user-images.githubusercontent.com/100060507/232285924-51f9d02b-e647-451e-a588-efe5bc4e32f7.png)
+
 
 ![image](https://user-images.githubusercontent.com/100060507/232284415-e50e675d-e45b-4d96-9b0b-8c4617015ea4.png)
