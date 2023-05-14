@@ -26,3 +26,4 @@
 ### Lab6-3 設置防火牆
 ![image](https://github.com/MinChunXie/Safe-int/assets/100060507/04088436-b9c7-4581-bd3d-cf8c484a3d8a)
 ![image](https://github.com/MinChunXie/Safe-int/assets/100060507/0090ea15-01e8-4e6d-bbed-414ff6b2f6ac)
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/71c16f8f-0f2c-45c0-8b5f-3068404c63af)
