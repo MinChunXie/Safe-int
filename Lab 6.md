@@ -24,3 +24,5 @@
 8. **社交工程攻擊：**社交工程攻擊是指攻擊者通過社交技巧，誘騙受害者進行某些行為，以達到攻擊目的。這可能包括釣魚攻擊、假冒身份和偽造文件等。
 
 ### Lab6-3 設置防火牆
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/04088436-b9c7-4581-bd3d-cf8c484a3d8a)
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/0090ea15-01e8-4e6d-bbed-414ff6b2f6ac)
