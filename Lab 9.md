@@ -60,5 +60,8 @@
 - 日誌記錄和報告：IDS會記錄檢測到的事件和活動，生成相關的日誌記錄和報告，用於安全審計和威脅分析。
 
 ## Lab9-2 什麼是VPN (Virtual Private Networks)？ VPN 如何幫助我們？什麼是 VPN？ VPN 如何幫助我們？
-
+##### 使用openVpn 前
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/5c18b641-a37c-47d9-8bf8-681c2ac64bdd)
+##### 使用後
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/34730b8e-a289-402e-9fea-d6efbaa36042)
 
