@@ -14,6 +14,3 @@
 
 **故障排除：**Wi-Fi 連接的常見問題包括信號干擾、範圍有限和速度問題。 通常可以通過檢查路由器設置、確保安全協議到位或重置路由器來解決這些問題。
 
-![image](https://github.com/MinChunXie/Safe-int/assets/100060507/90fdb9cd-4a64-46d2-866a-335ff213867a)
-
-![image](https://github.com/MinChunXie/Safe-int/assets/100060507/6eda58ac-181d-4798-bd4c-695c73eeecc7)
