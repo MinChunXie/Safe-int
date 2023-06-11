@@ -13,3 +13,7 @@
 覆蓋範圍和連接性：Wi-Fi 信號的範圍會受到多種因素的影響，包括路由器的天線、功率輸出和牆壁等環境因素。 Wi-Fi 擴展器等設備可用於增加 Wi-Fi 信號的範圍。
 
 **故障排除：**Wi-Fi 連接的常見問題包括信號干擾、範圍有限和速度問題。 通常可以通過檢查路由器設置、確保安全協議到位或重置路由器來解決這些問題。
+
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/90fdb9cd-4a64-46d2-866a-335ff213867a)
+
+![image](https://github.com/MinChunXie/Safe-int/assets/100060507/6eda58ac-181d-4798-bd4c-695c73eeecc7)
